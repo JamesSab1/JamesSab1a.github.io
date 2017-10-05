@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 background-color: #f6deb2;
 
 background-color: #26619c;  blue
@@ -38,27 +37,3 @@ https://www.youtube.com/watch?v=l65TtWaE4mE - dali
 		<a href="episode 9">Vicenza, Possagno and Padua - </a>
 		<a href="episode 10">Venice </a>
 	  </h3>
-=======
-background-color: #f6deb2;
-
-background-color: #26619c;  blue
-
-http://www.freebiesgallery.com/wp-content/uploads/2013/09/paper-background-4.jpg
-
-video embedded
-<p>
-		      <video src="./videos/brian-dogs.mp4" width="160" height="120" controls>
-                Video not supported
-              </video>
-		  </p>
-		  <p>
-		      <video src="./videos/brian-boys.mp4" width="160" height="120" controls>
-                Video not supported
-              </video>
-		  </p>
-		  <p>
-		      <video src="./videos/brian-beckham.mp4" width="160" height="120" controls>
-                Video not supported
-              </video>
-		  </p>
->>>>>>> 255563ba6acb99f4ee6f5d30e85e642b1ef5047a
