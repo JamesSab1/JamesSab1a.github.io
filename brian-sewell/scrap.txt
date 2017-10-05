@@ -1,0 +1,39 @@
+background-color: #f6deb2;
+
+background-color: #26619c;  blue
+
+http://www.freebiesgallery.com/wp-content/uploads/2013/09/paper-background-4.jpg
+
+video embedded
+<p>
+		      <video src="./videos/brian-dogs.mp4" width="160" height="120" controls>
+                Video not supported
+              </video>
+		  </p>
+		  <p>
+		      <video src="./videos/brian-boys.mp4" width="160" height="120" controls>
+                Video not supported
+              </video>
+		  </p>
+		  <p>
+		      <video src="./videos/brian-beckham.mp4" width="160" height="120" controls>
+                Video not supported
+              </video>
+		  </p>
+
+
+https://www.youtube.com/watch?v=l65TtWaE4mE - dali
+
+
+<h3>
+	    <a href="episode 1">Mont Cenis Pass, Turin and Milan  -  </a>
+	    <a href="episode 2">Cremona, Parma and Bologna  -  </a>
+	    <a href="episode 3">Florence -  </a>
+		<a href="episode 4">San Gimignano, Siena, Radicofani and Orvieto -  </a>
+		<a href="episode 5">Rome -  </a>
+		<a href="episode 6">Naples, Vesuvius and New Pompeii - </a>
+		<a href="episode 7">Paestum, Todi and Urbino - </a>
+		<a href="episode 8">Rimini, Ferrara and Mantua -  </a>
+		<a href="episode 9">Vicenza, Possagno and Padua - </a>
+		<a href="episode 10">Venice </a>
+	  </h3>

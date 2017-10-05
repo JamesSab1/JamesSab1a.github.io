@@ -17,9 +17,10 @@ header {
 	background-image: url("../images/background2.png"), url("https://inspirationhut.net/wp-content/uploads/2012/11/Paper-Texture-.jpg");
 	background-color: #f6deb2;
 	height: 600px;
-	border-top: 2px solid black;
-	border-bottom: 2px solid black;
+	border-top: 1px solid black;
+	border-bottom: 1px solid black;
 	font-family: 'Dancing Script', Tangerine, cursive;
+	
 	
 	
 	
@@ -47,9 +48,38 @@ img {
 	
 }
 	
-	a {
-		color: black;
+a {
+	color: black;
 
 }
-	
 
+
+#gt {
+	position:relative;
+	top:1px;
+	
+}
+	
+.disabled {
+   pointer-events: none;
+   cursor: default;
+}
+
+#horse {
+	position:inline;
+	top: -50px;
+	border: 1px solid black;
+	
+}
+
+#bric {
+	position:inline;
+	top: 20px;
+	border: 1px solid black;
+	
+}
+
+#back {
+	border-radius: 0px;
+	
+}
